@@ -1,0 +1,12 @@
+{
+        "wisata":[
+        {
+        "id":"01",
+        "title":"guci",
+        "lat":"-7.2195589",
+        "lng":"109.1701666",
+        "provinsi" : "Jawa Tengah",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/BonbinMangkang (1).jpg",
+        "deskripsi": "tas mahal produksi tegal."
+    } ]
+}
