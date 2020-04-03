@@ -6,7 +6,34 @@
         "lat":"-7.2195589",
         "lng":"109.1701666",
         "provinsi" : "Jawa Tengah",
-        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/BonbinMangkang (1).jpg",
-        "deskripsi": "tas mahal produksi tegal."
-    } ]
+        "deskripsi": "Wisata Guci Tegal Jawa Tengah terkenal dengan sebuah mata air yang jernih dan asri di bagian utara gunung. Tempat wisata ini bisa kamu kunjungi dari pagi hingga malam, buka pada pukul 6 pagi dan tutup pukul 9 malam."
+    }, {
+        "id":"02",
+        "title":"curug putri",
+        "lat":"-7.2026868",
+        "lng":"109.0928058",
+        "provinsi" : "Jawa Tengah",
+        "deskripsi": "Curug yang membelah dua buah desa, Desa Dukuhbenda, Bumijawa, Kabupaten Tegal dengan Desa Padanama Kecamatan Sirampog Kabupaten Brebes ini memiliki ketinggian kurang lebih 25-35 meter. Jadi bisa dikatakan bahwa curug ini merupakan curug kedua yang tertinggi di Tegal setelah Curug Cantel yang sama-sama merupakan aliran dari Sungai Kalipedes yang berhulu di Gunung Slamet."
+    },{
+        "id":"03",
+        "title":"Pantai Alam Indah",
+        "lat":"-6.8474907",
+        "lng":"109.1392285",
+        "provinsi" : "Jawa Tengah",
+        "deskripsi": "Objek wisata ini bisa dibilang memang berbeda dengan objek wisata pantai lain. Sebut saja, semua pantai di kawasan laut selatan."
+    },{
+        "id":"04",
+        "title":"Waduk Cacaban",
+        "lat":"-7.0079516",
+        "lng":"109.1769234",
+        "provinsi" : "Jawa Tengah",
+        "deskripsi": "Waduk Cacaban adalah sebuah bendungan yang terletak di Kecamatan Kedungbanteng, Kabupaten Tegal, Jawa Tengah, Indonesia. Luas areal waduk adalah 928,7 hektar dan berisi air sebanyak 90 juta m³. Waduk ini didukung dengan latar belakang pemandangan hutan dengan panorama yang indah."
+    },{
+        "id":"05",
+        "title":"Bukit Watu Agung",
+        "lat":"-7.540251",
+        "lng":"109.4540889",
+        "provinsi" : "Jawa Tengah",
+        "deskripsi": "Sebenarnya, warga lokal lebih mengenal destinasi wisata ini dengan sebutan Goa Lawa, namun lebih mudahnya para wisatawan menyebutnya dengan sebutan Bukit Batu Agung Balapulang. Batu Agung ini sendiri merupakan nama desa di mana Goa Lawa tersebut berada sedangkan Balapulang adalah nama kecamatannya."
+    }]
 }
